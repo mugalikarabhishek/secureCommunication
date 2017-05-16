@@ -6,7 +6,7 @@ Client can send message to server . client has the option to select the AES,RSA 
 
 User has the option to select C# RSA's implmentation or C# user implmentation. RSA implementation in which rsa algorithm has been implmeneted without using any inbuilt C# library.
 
-Used C#, Visual studion 2010.
+Used C#, Visual studio 2010.
 
 Server is a console application which decrypts the message. Client intiates the alogrithm and passes on the key to server.
 
